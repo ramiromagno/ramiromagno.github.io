@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ramiro Magno</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Ramiro Magno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018 Ramiro Magno</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent Advances in Understanding Vertebrate Segmentation</title>
+      <link>/publication/2018-somitogenesis/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-somitogenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StemMapper: A Curated Gene Expression Database for Stem Cell Lineage analysis</title>
+      <link>/publication/2017-stem-mapper/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-stem-mapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rdml: A Mathematica Package for Parsing and Importing Real-Time qPCR Data</title>
+      <link>/publication/2017-rdml/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-rdml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Biophysical Nature of Cells: Potential Cell Behaviours Revealed by Analytical and Computational Studies of Cell Surface Mechanics</title>
+      <link>/publication/2015-cpm/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-cpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution and Diversification of the Organellar Release Factor Family</title>
+      <link>/publication/2012-release-factor-family/</link>
+      <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012-release-factor-family/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
