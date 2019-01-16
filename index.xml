@@ -16,7 +16,7 @@
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/the-gwas-catalog-team/</guid>
-      <description>&lt;p&gt;I have been lately trying to write an R package to access the GWAS Catalog REST API. Many questions have arisen but the GWAS Catalog team has been there to help me out. To make sure I start associating the name of the persons I have been interacting with with a face, I made this postcard (I hope I got the names right):&lt;/p&gt;
+      <description>&lt;p&gt;I have been lately trying to write an &lt;a href=&#34;https://github.com/ramiromagno/gwasrapidd&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to access the GWAS Catalog REST API. Many questions have arisen but the GWAS Catalog team has been there to help me out. To make sure I start associating the name of the persons I have been interacting with with a face, I made this postcard (I hope I got the names right):&lt;/p&gt;
 
 &lt;p&gt;(image blatantly copied from &lt;a href=&#34;http://www.ensembl.info/2018/06/28/ten-years-of-the-gwas-catalog-past-present-and-future/&#34; target=&#34;_blank&#34;&gt;Ten years of the GWAS Catalog – Past, present and future&lt;/a&gt;)&lt;/p&gt;
 
