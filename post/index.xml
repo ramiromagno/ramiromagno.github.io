@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ramiro Magno</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Ramiro Magno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2019 Ramiro Magno</copyright>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The GWAS Catalog Team</title>
+      <link>/post/the-gwas-catalog-team/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-gwas-catalog-team/</guid>
+      <description>I have been lately trying to write an R package to access the GWAS Catalog REST API. Many questions have arisen but the GWAS Catalog team has been there to help me out. To make sure I start associating the name of the persons I have been interacting with with a face, I made this postcard (I hope I got the names right):
+(image blatantly copied from Ten years of the GWAS Catalog – Past, present and future)</description>
+    </item>
+    
+  </channel>
+</rss>

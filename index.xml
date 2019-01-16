@@ -6,9 +6,23 @@
     <description>Recent content in Ramiro Magno on Ramiro Magno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2018 Ramiro Magno</copyright>
+    <copyright>&amp;copy; 2019 Ramiro Magno</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The GWAS Catalog Team</title>
+      <link>/post/the-gwas-catalog-team/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-gwas-catalog-team/</guid>
+      <description>&lt;p&gt;I have been lately trying to write an R package to access the GWAS Catalog REST API. Many questions have arisen but the GWAS Catalog team has been there to help me out. To make sure I start associating the name of the persons I have been interacting with with a face, I made this postcard (I hope I got the names right):&lt;/p&gt;
+
+&lt;p&gt;(image blatantly copied from &lt;a href=&#34;http://www.ensembl.info/2018/06/28/ten-years-of-the-gwas-catalog-past-present-and-future/&#34; target=&#34;_blank&#34;&gt;Ten years of the GWAS Catalog – Past, present and future&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/gwas_catalog_team-201806.png&#34; alt=&#34;GWAS Catalog Team&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Recent Advances in Understanding Vertebrate Segmentation</title>
