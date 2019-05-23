@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2019 Ramiro Magno</copyright>
-    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gwasrapidd: an R package to query, download and wrangle GWAS Catalog data</title>
+      <link>/post/gwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data/</guid>
+      <description>gwasrapidd is out!
+Here&amp;rsquo;s the bioRxiv draft: https://www.biorxiv.org/content/10.1101/643940v1.</description>
+    </item>
     
     <item>
       <title>The GWAS Catalog Team</title>

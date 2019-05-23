@@ -36,13 +36,13 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/post/the-gwas-catalog-team/">
+  <link rel="canonical" href="/post/gwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data/">
 
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Montserrat:300,400">
   
 
-<title>The GWAS Catalog Team - Ramiro Magno</title>
-<meta property="og:title" content="The GWAS Catalog Team - Ramiro Magno">
+<title>gwasrapidd: an R package to query, download and wrangle GWAS Catalog data - Ramiro Magno</title>
+<meta property="og:title" content="gwasrapidd: an R package to query, download and wrangle GWAS Catalog data - Ramiro Magno">
 <meta property="og:type" content="article">
 
   
@@ -51,14 +51,14 @@
   
   
 
-<meta property="description" content="Article posted by %!s(&lt;nil&gt;), on Wednesday, January 16nd, 2019">
-<meta property="og:description" content="Article posted by %!s(&lt;nil&gt;), on Wednesday, January 16nd, 2019">
+<meta property="description" content="Article posted by %!s(&lt;nil&gt;), on Friday, May 24nd, 2019">
+<meta property="og:description" content="Article posted by %!s(&lt;nil&gt;), on Friday, May 24nd, 2019">
 
 
 <meta name="twitter:creator" content="">
 <meta name="twitter:site" content="">
 
-  <title>The GWAS Catalog Team | Ramiro Magno</title>
+  <title>gwasrapidd: an R package to query, download and wrangle GWAS Catalog data | Ramiro Magno</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -146,15 +146,15 @@
   
 
   <div class="article-container">
-    <h1 itemprop="name">The GWAS Catalog Team</h1>
+    <h1 itemprop="name">gwasrapidd: an R package to query, download and wrangle GWAS Catalog data</h1>
     
 
 <div class="article-metadata">
 
 
   <span class="article-date">
-    <time datetime="2019-01-16 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-      Wed, Jan 16, 2019
+    <time datetime="2019-05-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Fri, May 24, 2019
     </time>
   </span>
   
@@ -180,35 +180,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpost%2fthe-gwas-catalog-team%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fgwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=The%20GWAS%20Catalog%20Team&amp;url=%2fpost%2fthe-gwas-catalog-team%2f"
+         href="https://twitter.com/intent/tweet?text=gwasrapidd%3a%20an%20R%20package%20to%20query%2c%20download%20and%20wrangle%20GWAS%20Catalog%20data&amp;url=%2fpost%2fgwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fthe-gwas-catalog-team%2f&amp;title=The%20GWAS%20Catalog%20Team"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fgwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data%2f&amp;title=gwasrapidd%3a%20an%20R%20package%20to%20query%2c%20download%20and%20wrangle%20GWAS%20Catalog%20data"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2fthe-gwas-catalog-team%2f&amp;title=The%20GWAS%20Catalog%20Team"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fgwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data%2f&amp;title=gwasrapidd%3a%20an%20R%20package%20to%20query%2c%20download%20and%20wrangle%20GWAS%20Catalog%20data"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=The%20GWAS%20Catalog%20Team&amp;body=%2fpost%2fthe-gwas-catalog-team%2f">
+         href="mailto:?subject=gwasrapidd%3a%20an%20R%20package%20to%20query%2c%20download%20and%20wrangle%20GWAS%20Catalog%20data&amp;body=%2fpost%2fgwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -221,11 +221,9 @@
 </div>
 
     <div class="article-style" itemprop="articleBody">
-      <p>I have been lately trying to write an <a href="https://github.com/ramiromagno/gwasrapidd" target="_blank">R package</a> to access the GWAS Catalog REST API. Many questions have arisen but the GWAS Catalog team has been there to help me out. To make sure I start associating the name of the persons I have been interacting with with a face, I made this postcard (I hope I got the names right):</p>
+      <p><a href="https://github.com/ramiromagno/gwasrapidd" target="_blank">gwasrapidd</a> is out!</p>
 
-<p>(image blatantly copied from <a href="http://www.ensembl.info/2018/06/28/ten-years-of-the-gwas-catalog-past-present-and-future/" target="_blank">Ten years of the GWAS Catalog – Past, present and future</a>)</p>
-
-<p><img src="/img/gwas_catalog_team-201806.png" alt="GWAS Catalog Team" /></p>
+<p>Here&rsquo;s the bioRxiv draft: <a href="https://www.biorxiv.org/content/10.1101/643940v1" target="_blank">https://www.biorxiv.org/content/10.1101/643940v1</a>.</p>
 
     </div>
   </div>
@@ -236,10 +234,10 @@
   <nav>
   <ul class="pager">
     
-
+    <li class="previous"><a href="/post/the-gwas-catalog-team/"><span
+      aria-hidden="true">&larr;</span> The GWAS Catalog Team</a></li>
     
-    <li class="next"><a href="/post/gwasrapidd-an-r-package-to-query-download-and-wrangle-gwas-catalog-data/">gwasrapidd: an R package to query, download and wrangle GWAS Catalog data <span
-      aria-hidden="true">&rarr;</span></a></li>
+
     
   </ul>
 </nav>
