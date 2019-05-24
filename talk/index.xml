@@ -12,5 +12,15 @@
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>R for Absolute Beginners 7th Edition</title>
+      <link>/talk/r-for-absolute-beginners-7th-edition/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/r-for-absolute-beginners-7th-edition/</guid>
+      <description>Looking forward to the 7th edition of R for Absolute Beginners!
+Here&amp;rsquo;s the official website: https://www.ccmar.ualg.pt/r-7edition.</description>
+    </item>
+    
   </channel>
 </rss>
